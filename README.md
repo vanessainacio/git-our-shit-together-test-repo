@@ -9,7 +9,10 @@ git-our-shit-together-test-repo
 ## start server (moon reader)
 1. open the `git-our-shit-together-test-repo.Rproj` in RStudio 
 2. BEWARE: don't open `index.Rmd` in RStudio 
-1.1 added this
+
+1.1 ![](https://media.giphy.com/media/Rlxfht52POeHMUrner/giphy.gif)
+
+
 2. open `index.Rmd` in RStudio 
 3. in the console, run `xaringan::inf_mr()`
 
