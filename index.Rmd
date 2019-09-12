@@ -2,11 +2,11 @@
 title: "My first presentation"
 subtitle: "made with love"
 author: "Your names"
-institute: "RStudio, Inc."
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+institute: "RLadies FFM"
+date: "2019/09/12"
 output:
   xaringan::moon_reader:
-    css: [default, metropolis, metropolis-fonts]
+    css: [default]
     lib_dir: libs
     nature:
       highlightStyle: github
