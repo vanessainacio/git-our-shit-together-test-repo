@@ -4,6 +4,7 @@ git-our-shit-together-test-repo
 `install.packages('RMarkdown')`
 `install.packages('xaringan')`
 # i want to change this line
+# added this here!
 
 ## start server (moon reader)
 1. open the `git-our-shit-together-test-repo.Rproj` in RStudio 
