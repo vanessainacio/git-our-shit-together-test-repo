@@ -3,6 +3,7 @@ git-our-shit-together-test-repo
 ## install xaringan 
 `install.packages('RMarkdown')`
 `install.packages('xaringan')`
+# added this here!
 
 
 ## start server (moon reader)
